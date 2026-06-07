@@ -37,6 +37,7 @@
     background-clip: text;
     letter-spacing: 1px;
   ">
+  <!-- JHM Learning Hub by Jayanth -->
     🎓 JHM Learning Hub
   </h2>
   <p class="text-muted mt-1" style="font-size: 1rem;">
